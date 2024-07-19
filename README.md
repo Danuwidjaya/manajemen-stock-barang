@@ -20,9 +20,3 @@ Pastikan kamu sudah menginstal:
 - [PHP](https://www.php.net/downloads)
 - [MySQL](https://www.mysql.com/downloads/)
 - [Composer](https://getcomposer.org/download/)
-
-### Langkah-langkah Instalasi
-1. **Clone repositori ini**:
-   ```sh
-   git clone https://github.com/username/manajemen-stock-barang.git
-   cd manajemen-stock-barang
